@@ -1,1 +1,1 @@
-#  AWS  with machine learning for  face recognition
+#  AWS  ec3 and s3  automation with   face recognition
