@@ -1,1 +1,1 @@
-#  AWS  Ec2 and s3  automation with   face recognition
+#  AWS  Ec2 and S3  automation with   face recognition
